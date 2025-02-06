@@ -27,5 +27,5 @@ QR Code yang dihasilkan dapat disesuaikan tampilannya, seperti:
 - Menambahkan logo atau ikon di tengah QR Code agar lebih profesional.
 
 #### **Kesimpulan**
-Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah membuat, menampilkan, dan menyimpan QR Code dalam Laravel. Fitur kustomisasi juga memungkinkan penyesuaian QR Code agar lebih menarik dan sesuai dengan kebutuhan aplikasi. Jika ada pertanyaan atau kendala, pastikan untuk mengecek dokumentasi resmi Laravel atau komunitas pengembang untuk mendapatkan bantuan lebih lanjut. 🚀
+Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah membuat, menampilkan, dan menyimpan QR Code dalam Laravel. Fitur kustomisasi juga memungkinkan penyesuaian QR Code agar lebih menarik dan sesuai dengan kebutuhan aplikasi. Jika ada pertanyaan atau kendala, pastikan untuk mengecek dokumentasi resmi Laravel atau komunitas pengembang untuk mendapatkan bantuan lebih lanjut. 
 
