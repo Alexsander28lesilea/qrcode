@@ -3,17 +3,17 @@ Langkah pertama adalah menginstal library Simple QrCode menggunakan Composer. Ja
 bash
 CopyEdit
 composer require simplesoftwareio/simple-qrcode
-📌 Catatan: Paket ini berbasis pada BaconQrCode, yang digunakan untuk membuat QR Code di PHP.
-________________________________________
+ Catatan: Paket ini berbasis pada BaconQrCode, yang digunakan untuk membuat QR Code di PHP.
+
 Tahap 2: Membuat Controller untuk QR Code
 Setelah instalasi selesai, buat controller baru untuk menangani pembuatan QR Code:
 bash
 CopyEdit
 php artisan make:controller QRCodeController
-📌 Catatan: Controller ini akan digunakan untuk meng-generate QR Code berdasarkan input tertentu.
+Catatan: Controller ini akan digunakan untuk meng-generate QR Code berdasarkan input tertentu.
 Setelah perintah ini dijalankan, file controller baru akan muncul di:
 📁 app/Http/Controllers/QRCodeController.php
-________________________________________
+
 Tahap 3: Membuat Fungsi untuk Generate QR Code
 Buka file QRCodeController.php, lalu tambahkan kode berikut:
 php
